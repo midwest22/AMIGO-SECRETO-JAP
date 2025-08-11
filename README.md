@@ -2,6 +2,9 @@
 
 <h2>PROYECTO EN CONSTRUCCIÓN.</h2>
 
+
+para ejecutar el istema debes poner:
+'''npn install react'''
 DEJAR INFORMACION DEL PROYECTO
 
 ##Índice
