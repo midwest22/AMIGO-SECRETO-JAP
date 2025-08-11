@@ -4,7 +4,7 @@
 
 
 para ejecutar el istema debes poner:
-```npn install react```
+```npn install react``` <br>
 
 
 DEJAR INFORMACION DEL PROYECTO
